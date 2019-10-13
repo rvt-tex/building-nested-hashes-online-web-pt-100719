@@ -40,35 +40,31 @@ end
 
 
 
-
-
-def third_challenge
-  epic_tragedy = {
-   :montague => {
-      :patriarch => {
+#def third_challenge
+  #epic_tragedy = {
+   #:montague => {
+      #:patriarch => {
         #your key/value pairs here
-        },
-      :matriarch => {
+       # },
+      #:matriarch => {
         #your key/value pairs here
-        },
-      :hero => {
+      #  },
+     # :hero => {
         #your key/value pairs here
-        },
-      :hero_friends => []
-   }, 
-   :capulet => {
-      :patriarch => {
+     #   },
+      #:hero_friends => []
+ #  }, 
+  # :capulet => {
+     # :patriarch => {
         #your key/value pairs here
-        },
-      :matriarch => {
+      #  },
+      #:matriarch => {
         #your key/value pairs here
-        },
-      :heroine => {
+      #  },
+     # :heroine => {
         #your key/value pairs here
-        },
-      :heroine_friends => []
-   }
-  }
-
-  
+      #  },
+     # :heroine_friends => []
+  # }
+ # }
 end
